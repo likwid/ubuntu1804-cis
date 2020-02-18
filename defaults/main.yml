@@ -88,7 +88,7 @@ ubuntu1804cis_rule_2_1_11: true
 ubuntu1804cis_rule_2_2_1_1: true
 ubuntu1804cis_rule_2_2_1_2: true
 ubuntu1804cis_rule_2_2_1_3: true
-ubuntu1804cis_rule_2_2_2: true
+ubuntu1804cis_rule_2_2_2: false
 ubuntu1804cis_rule_2_2_3: true
 ubuntu1804cis_rule_2_2_4: true
 ubuntu1804cis_rule_2_2_5: true
@@ -296,7 +296,7 @@ ubuntu1804cis_is_router: false
 ubuntu1804cis_ipv6_required: true
 
 # AIDE
-ubuntu1804cis_config_aide: true
+ubuntu1804cis_config_aide: false
 # AIDE cron settings
 ubuntu1804cis_aide_cron:
   cron_user: root
